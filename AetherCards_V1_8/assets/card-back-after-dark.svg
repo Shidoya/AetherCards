@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 840" role="img" aria-labelledby="t d">
+<title id="t">Dos de carte AetherCards after-dark</title><desc id="d">Dos symétrique luxury premium, cadre doré, sceau astral sur fond sombre</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#210c18"/><stop offset=".55" stop-color="#130b12"/><stop offset="1" stop-color="#361425"/></linearGradient>
+<linearGradient id="metal" x1="0" y1="0" x2="1" y2=".45"><stop stop-color="#9c5d64"/><stop offset=".2" stop-color="#f5dfc2"/><stop offset=".52" stop-color="#ce9d87"/><stop offset=".76" stop-color="#9c5d64"/><stop offset="1" stop-color="#f5dfc2"/></linearGradient>
+<radialGradient id="aura"><stop stop-color="#ce9d87" stop-opacity=".16"/><stop offset=".6" stop-color="#ce9d87" stop-opacity=".035"/><stop offset="1" stop-color="#ce9d87" stop-opacity="0"/></radialGradient>
+<pattern id="grain" patternUnits="userSpaceOnUse" width="15" height="15"><path d="M0 15L15 0" stroke="#ce9d87" stroke-opacity=".018" stroke-width="1"/></pattern>
+<pattern id="dots" patternUnits="userSpaceOnUse" width="34" height="34"><circle cx="17" cy="17" r=".8" fill="#ce9d87" opacity=".12"/></pattern>
+<g id="filigree" fill="none" stroke="url(#metal)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M83 130V81H132 M83 100q0 -19 19 -19 M98 130q0 -32 34 -32 M83 158q-5 -29 25 -44"/><path d="M123 83l-12 14 18 13"/><circle cx="83" cy="81" r="3" fill="#ce9d87"/><circle cx="132" cy="98" r="3" fill="#ce9d87"/></g>
+<g id="kite" stroke="#f5dfc2" fill="none"><path d="M0 -18L11 0 0 18-11 0Z"/><path d="M0 -11V11M-6 0H6" opacity=".6"/></g>
+</defs>
+<rect x="4" y="4" width="592" height="832" rx="31" fill="url(#bg)" stroke="#f5dfc2" stroke-width="3"/>
+<rect x="13" y="13" width="574" height="814" rx="24" fill="url(#grain)"/>
+<rect x="13" y="13" width="574" height="814" rx="24" fill="url(#dots)"/>
+<rect x="21" y="21" width="558" height="798" rx="19" fill="none" stroke="url(#metal)" stroke-width="4"/>
+<rect x="34" y="34" width="532" height="772" rx="13" fill="none" stroke="#ce9d87" stroke-width="1.2" opacity=".82"/>
+<rect x="47" y="47" width="506" height="746" rx="8" fill="none" stroke="#ce9d87" stroke-opacity=".48" stroke-width="1"/>
+<use href="#filigree"/><use href="#filigree" transform="translate(600 0) scale(-1 1)"/>
+<use href="#filigree" transform="translate(0 840) scale(1 -1)"/><use href="#filigree" transform="translate(600 840) scale(-1 -1)"/>
+<path d="M170 72H430 M170 768H430" stroke="#ce9d87" stroke-opacity=".65" stroke-width="1"/>
+<path d="M300 73l14 13-14 13-14-13zM300 767l14 -13-14-13-14 13z" fill="none" stroke="#f5dfc2" stroke-width="1.5"/>
+<use href="#kite" transform="translate(300 135) scale(.6)"/>
+<use href="#kite" transform="translate(300 705) scale(.6)"/>
+<ellipse cx="300" cy="405" rx="245" ry="275" fill="url(#aura)"/>
+<circle cx="300" cy="399" r="189" fill="none" stroke="#ce9d87" stroke-opacity=".4" stroke-width="1"/>
+<circle cx="300" cy="399" r="177" fill="none" stroke="#ce9d87" stroke-opacity=".16" stroke-width="1" stroke-dasharray="3 9"/>
+<circle cx="300" cy="399" r="149" fill="none" stroke="url(#metal)" stroke-width="2.1"/>
+<circle cx="300" cy="399" r="136" fill="none" stroke="#ce9d87" stroke-opacity=".7" stroke-width="1"/>
+<circle cx="300" cy="399" r="111" fill="none" stroke="#ce9d87" stroke-opacity=".3" stroke-width="1"/>
+<path d="M300 217v364M118 399h364 M171 270l258 258M429 270L171 528" stroke="#ce9d87" stroke-width="1" stroke-opacity=".22"/>
+<g fill="none" stroke="url(#metal)" stroke-linejoin="round" stroke-linecap="round">
+ <path d="M300 266L323 363 398 399 323 434 300 532 277 434 202 399 277 363Z" stroke-width="3.7"/>
+ <path d="M300 287L313 375 374 399 313 423 300 511 287 423 226 399 287 375Z" stroke-width="1.2"/>
+ <path d="M300 327L321 399 300 471 279 399Z" stroke-width="1.6"/>
+ <path d="M257 399H343 M300 350v99" stroke-width="1"/>
+</g>
+<circle cx="300" cy="399" r="8" fill="#f5dfc2"/><circle cx="300" cy="399" r="3" fill="#210c18"/>
+<circle cx="300" cy="250" r="5" fill="#ce9d87"/><circle cx="300" cy="548" r="5" fill="#ce9d87"/><circle cx="151" cy="399" r="5" fill="#ce9d87"/><circle cx="449" cy="399" r="5" fill="#ce9d87"/>
+<path d="M105 611H495" stroke="#ce9d87" stroke-opacity=".36"/><path d="M193 625H407" stroke="#ce9d87" stroke-opacity=".55"/>
+<text x="300" y="650" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" fill="#f5dfc2" font-size="46" font-weight="bold" letter-spacing="-1.8">AetherCards</text>
+<text x="300" y="677" text-anchor="middle" font-family="Arial, sans-serif" fill="#ce9d87" font-size="10" letter-spacing="4.5">AFTER DARK</text>
+<text x="300" y="183" text-anchor="middle" font-family="Arial, sans-serif" fill="#ce9d87" font-size="12" letter-spacing="5">ADULT COLLECTION · 18+</text>
+<path d="M202 183H148M398 183h54" stroke="#ce9d87" opacity=".6"/>
+</svg>
